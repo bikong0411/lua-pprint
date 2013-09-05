@@ -1,7 +1,7 @@
 lua-pprint
 ==========
 
-it seems perl Data::Dumper
+it seems perl Data::Dumper, when you have a deep table, you have to traverse it by for cycle nested recursion，now you only need require pprint, it make you coding better and simple
 
 Useage:
 ==========
