@@ -12,7 +12,7 @@ hash['test'] = {}
 hash['test']['sky'] = {}
 hash['test']['sky']['key0']="KISS"
 hash['test']['sky']['one']={}
-hash['test']['sky']['one']['two']={"KEYS"}
+hash['test']['sky']['one']['two']="KEYS"
 p:pprint(hash)
 </code></pre>
 Output:
